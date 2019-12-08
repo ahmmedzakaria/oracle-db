@@ -1,0 +1,5 @@
+F:\oracle\product\10.2.0\db_1\oc4j\j2ee\oc4j_applications\applications\isqlplus\isqlplus\WEB-INF\web.xml
+
+<session-config>
+      <session-timeout>-1</session-timeout>
+</session-config>
